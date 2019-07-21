@@ -1,0 +1,4 @@
+#Wed Jul 17 01:06:16 CEST 2019
+base.0=C\:\\Dev\\RICOH_AT\\gradleBuild\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
